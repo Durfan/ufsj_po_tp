@@ -10,7 +10,7 @@ de PLI dos problemas clássicos vistos em sala de aula.
 
 A primeira linha consiste no total de nós total de arestas respectivamente. As linhas seguintes até o total de nós corespondem respectivamente ao id do nó e à dados vinculados ao problema a ser solucionado (ex. demanda, oferta, fluxo... etc.). As linhas restantes no arquivo são a representação em grafo do problema, sendo respectivamente: origem destino peso.
 
-*Nota: Os dados de cada aresta podem conter mais informações que corespondentes ao problema.*
+*Nota: Os dados de cada aresta podem conter mais informações corespondentes a cada problema.*
 
 ## Solução para os Problemas do Trabalho
 

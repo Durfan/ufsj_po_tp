@@ -32,17 +32,17 @@
   <constraint index="4" status="LL" slack="0" dual="1"/>
  </linearConstraints>
  <variables>
-  <variable name="x_0_1" index="0" status="UL" value="8" reducedCost="1"/>
-  <variable name="x_0_2" index="1" status="BS" value="11" reducedCost="0"/>
-  <variable name="x_1_4" index="2" status="BS" value="8" reducedCost="0"/>
-  <variable name="x_1_3" index="3" status="LL" value="0" reducedCost="0"/>
-  <variable name="x_1_2" index="4" status="LL" value="0" reducedCost="-1"/>
-  <variable name="x_2_3" index="5" status="UL" value="5" reducedCost="1"/>
-  <variable name="x_2_5" index="6" status="BS" value="6" reducedCost="0"/>
-  <variable name="x_3_4" index="7" status="BS" value="5" reducedCost="0"/>
-  <variable name="x_3_5" index="8" status="LL" value="0" reducedCost="-1"/>
-  <variable name="x_4_6" index="9" status="BS" value="13" reducedCost="0"/>
-  <variable name="x_5_6" index="10" status="UL" value="6" reducedCost="1"/>
+  <variable name="x01" index="0" status="UL" value="8" reducedCost="1"/>
+  <variable name="x02" index="1" status="BS" value="11" reducedCost="0"/>
+  <variable name="x14" index="2" status="BS" value="8" reducedCost="0"/>
+  <variable name="x13" index="3" status="LL" value="0" reducedCost="0"/>
+  <variable name="x12" index="4" status="LL" value="0" reducedCost="-1"/>
+  <variable name="x23" index="5" status="UL" value="5" reducedCost="1"/>
+  <variable name="x25" index="6" status="BS" value="6" reducedCost="0"/>
+  <variable name="x34" index="7" status="BS" value="5" reducedCost="0"/>
+  <variable name="x35" index="8" status="LL" value="0" reducedCost="-1"/>
+  <variable name="x46" index="9" status="BS" value="13" reducedCost="0"/>
+  <variable name="x56" index="10" status="UL" value="6" reducedCost="1"/>
  </variables>
  <objectiveValues>
   <objective index="0" name="" value="19"/>

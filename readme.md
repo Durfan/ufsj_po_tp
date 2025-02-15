@@ -45,11 +45,11 @@ Uma solução eficiente para esse problema é utilizar o `pyenv`, uma ferramenta
 3. **Instalar a versão correta do Python**
     Para instalar uma versão compatível com o CPLEX (por exemplo, 3.7.17):
     ```sh
-    pyenv install 3.9.12
+    pyenv install 3.7.17
 
 4. **Criar um ambiente virtual e ativá-lo**
     ```sh
-    pyenv virtualenv 3.9.12 meu_ambiente
+    pyenv virtualenv 3.7.17 meu_ambiente
     pyenv activate meu_ambiente
 
 5. **Instalar o CPLEX no ambiente**

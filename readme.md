@@ -4,7 +4,9 @@
 Este trabalho da disciplina de Pesquisa Operacional vai consistir na implementação dos modelos
 de PLI dos problemas clássicos vistos em sala de aula.
 
-# Formato dos Arquivos de Entrada `in_(sigla do problema).txt`
+## Formato dos Arquivos de Entrada
+
+`in_(sigla do problema).txt`
 
 A primeira linha consiste no total de nós total de arestas respectivamente. As linhas seguintes até o total de nós corespondem respectivamente ao id do nó e à dados vinculados ao problema a ser solucionado (ex. demanda, oferta, fluxo... etc.). As linhas restantes no arquivo são a representação em grafo do problema, sendo respectivamente: origem destino peso.
 
